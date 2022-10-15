@@ -1,0 +1,7 @@
+.navbar {
+  height: 4rem;
+  display: flex;
+  background-color: rgb(6, 46, 165);
+  color: white;
+  padding: 0 2rem;
+}
